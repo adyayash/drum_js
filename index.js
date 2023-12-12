@@ -31,7 +31,7 @@ function makeSound(key) {
       tom1.play();
       break;
 
-    case "a":
+    case "h":
       var tom2 = new Audio("tom-2.mp3");
       tom2.play();
       break;
